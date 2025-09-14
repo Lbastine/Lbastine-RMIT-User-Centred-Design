@@ -54,6 +54,8 @@ header h1, header h2{
   text-align: center;
   width: auto;
   word-spacing: 200px;
+  font-size: large;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
 }
 .navbar a:hover{
